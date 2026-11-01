@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Waleed Altanani 👋
+### Junior Web Developer | IT Support Specialist
 
-<!--
-**we0d20-prog/we0d20-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduated with a Bachelor's Degree in Information Technology (IT) from Al-Azhar University (2024).
+- 💻 Passionate about Web Development (PHP, MySQL, JavaScript, Bootstrap).
+- 🛠️ Experienced in database management, server configuration (XAMPP/InfinityFree), and technical support.
+- 📫 How to reach me: **We0d20@gmail.com**
+- 🔗 LinkedIn: [Waleed Altanani](https://www.linkedin.com/in/waleed-altanani-b19317324)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** PHP, JavaScript, HTML5, CSS3, SQL
+- **Databases:** MySQL, PDO, phpMyAdmin
+- **Tools & Environments:** Visual Studio Code, XAMPP, FileZilla, Git & GitHub
+- **IT & Support:** System Maintenance, Network Basics, Troubleshooting
